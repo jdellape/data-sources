@@ -1,4 +1,4 @@
-season,primary_team,compared_against_team,stat_bin,difference,absolute_difference
+season,primary_team,compared_against_team,statBin,difference,absolute_difference
 2017,Iowa,Michigan,(4 | 6],0.031799773,0.031799773
 2017,Iowa,Michigan,(8 | 10],-0.020259386,0.020259386
 2017,Iowa,Michigan,(2 | 4],-0.018320819,0.018320819
